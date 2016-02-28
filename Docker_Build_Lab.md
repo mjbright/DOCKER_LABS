@@ -9,7 +9,7 @@ You can find the most up-to-date version of this document online [here](https://
 <br/>
 - a [PDF file](https://raw.githubusercontent.com/mjbright/DOCKER_LABS/master/Docker_Build_Lab.pdf) or as
 <br/>
-- a [Jupyter](http://www.jupyter.org) notebook at [Docker_Build_Lab](https://github.com/mjbright/DOCKER_LABS/blob/master/).
+- a [Jupyter](http://www.jupyter.org) notebook at [Docker_Build_Lab](https://github.com/mjbright/DOCKER_LABS/).
 </font>
 
 This notebook is runnable in a Jupyter installation with the bash_kernel installed.
