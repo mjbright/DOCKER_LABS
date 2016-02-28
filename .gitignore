@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.vagrant/
+*.exe
+src/
+src.bak/
+*.swp
+*.bak
+*.old
